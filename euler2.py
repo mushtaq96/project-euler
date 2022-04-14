@@ -6,7 +6,7 @@
 
 import numbers
 s = 0
-n = 40000
+n = 4000000
 a,b,c = 1, 1, 2
 while b <= n:
     print(b)
